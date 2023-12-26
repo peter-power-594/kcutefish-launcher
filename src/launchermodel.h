@@ -94,6 +94,9 @@ private Q_SLOTS:
     void removeApp(const QString &fileName);
 
 private:
+
+    QList<QString> m_appPaths;
+
     QList<AppItem> m_appItems;
     QList<AppItem> m_searchItems;
 
