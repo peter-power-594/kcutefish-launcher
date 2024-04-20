@@ -14,12 +14,18 @@ sudo apt install gcc cmake qtbase5-dev qml-module-qtquick-controls2 qml-module-o
 
 ## Build and Install
 
-```
+```shell
 mkdir build
 cd build
 cmake -DCMAKE_INSTALL_PREFIX:PATH=/usr ..
 make
 sudo make install
+```
+
+## Uninstall
+
+```shell
+rm /usr/bin/cutefish-launcher
 ```
 
 ## License
