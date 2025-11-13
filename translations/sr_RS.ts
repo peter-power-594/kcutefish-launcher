@@ -4,19 +4,16 @@
 <context>
     <name>GridItemDelegate</name>
     <message>
-        <location filename="../qml/GridItemDelegate.qml" line="99"/>
         <source>Open</source>
-        <translation>Otvori</translation>
+        <translation type="vanished">Otvori</translation>
     </message>
     <message>
-        <location filename="../qml/GridItemDelegate.qml" line="105"/>
         <source>Send to dock</source>
-        <translation>Smesti na dok</translation>
+        <translation type="vanished">Smesti na dok</translation>
     </message>
     <message>
-        <location filename="../qml/GridItemDelegate.qml" line="111"/>
         <source>Remove from dock</source>
-        <translation>Ukloni sa Doka</translation>
+        <translation type="vanished">Ukloni sa Doka</translation>
     </message>
 </context>
 <context>
@@ -30,14 +27,12 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../qml/main.qml" line="218"/>
         <source>Search</source>
-        <translation>Pretraži</translation>
+        <translation type="vanished">Pretraži</translation>
     </message>
     <message>
-        <location filename="../qml/main.qml" line="293"/>
         <source>Not found</source>
-        <translation>Nije Pronađeno</translation>
+        <translation type="vanished">Nije Pronađeno</translation>
     </message>
 </context>
 </TS>

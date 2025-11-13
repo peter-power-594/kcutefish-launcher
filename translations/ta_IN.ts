@@ -4,7 +4,7 @@
 <context>
     <name>Launcher</name>
     <message>
-        <location filename="../src/launcher.cpp" line="50"/>
+        <location filename="../src/launcher.cpp" line="56"/>
         <source>Launcher</source>
         <translation>துவக்கி</translation>
     </message>
@@ -12,27 +12,23 @@
 <context>
     <name>LauncherGridDelegate</name>
     <message>
-        <location filename="../qml/LauncherGridDelegate.qml" line="91"/>
         <source>Open</source>
-        <translation>திற</translation>
+        <translation type="vanished">திற</translation>
     </message>
     <message>
-        <location filename="../qml/LauncherGridDelegate.qml" line="96"/>
         <source>Uninstall</source>
-        <translation>பதிவு நீக்கம்</translation>
+        <translation type="vanished">பதிவு நீக்கம்</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../qml/main.qml" line="174"/>
         <source>Search</source>
-        <translation>தேடல்</translation>
+        <translation type="vanished">தேடல்</translation>
     </message>
     <message>
-        <location filename="../qml/main.qml" line="260"/>
         <source>Not found</source>
-        <translation>கிடைக்கவில்லை</translation>
+        <translation type="vanished">கிடைக்கவில்லை</translation>
     </message>
 </context>
 </TS>

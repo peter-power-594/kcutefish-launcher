@@ -4,7 +4,7 @@
 <context>
     <name>Launcher</name>
     <message>
-        <location filename="../src/launcher.cpp" line="50"/>
+        <location filename="../src/launcher.cpp" line="56"/>
         <source>Launcher</source>
         <translation>Pokretač</translation>
     </message>
@@ -12,27 +12,23 @@
 <context>
     <name>LauncherGridDelegate</name>
     <message>
-        <location filename="../qml/LauncherGridDelegate.qml" line="91"/>
         <source>Open</source>
-        <translation>Otvori</translation>
+        <translation type="vanished">Otvori</translation>
     </message>
     <message>
-        <location filename="../qml/LauncherGridDelegate.qml" line="96"/>
         <source>Uninstall</source>
-        <translation>Deinstaliraj</translation>
+        <translation type="vanished">Deinstaliraj</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../qml/main.qml" line="174"/>
         <source>Search</source>
-        <translation>Traži</translation>
+        <translation type="vanished">Traži</translation>
     </message>
     <message>
-        <location filename="../qml/main.qml" line="260"/>
         <source>Not found</source>
-        <translation>Nije nađeno</translation>
+        <translation type="vanished">Nije nađeno</translation>
     </message>
 </context>
 </TS>

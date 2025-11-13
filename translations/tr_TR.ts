@@ -4,7 +4,7 @@
 <context>
     <name>Launcher</name>
     <message>
-        <location filename="../src/launcher.cpp" line="50"/>
+        <location filename="../src/launcher.cpp" line="56"/>
         <source>Launcher</source>
         <translation>Başlatıcı</translation>
     </message>
@@ -12,27 +12,23 @@
 <context>
     <name>LauncherGridDelegate</name>
     <message>
-        <location filename="../qml/LauncherGridDelegate.qml" line="91"/>
         <source>Open</source>
-        <translation>Aç</translation>
+        <translation type="vanished">Aç</translation>
     </message>
     <message>
-        <location filename="../qml/LauncherGridDelegate.qml" line="96"/>
         <source>Uninstall</source>
-        <translation>Kaldır</translation>
+        <translation type="vanished">Kaldır</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../qml/main.qml" line="174"/>
         <source>Search</source>
-        <translation>Ara</translation>
+        <translation type="vanished">Ara</translation>
     </message>
     <message>
-        <location filename="../qml/main.qml" line="260"/>
         <source>Not found</source>
-        <translation>Bulunamadı</translation>
+        <translation type="vanished">Bulunamadı</translation>
     </message>
 </context>
 </TS>

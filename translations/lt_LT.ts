@@ -4,7 +4,7 @@
 <context>
     <name>Launcher</name>
     <message>
-        <location filename="../src/launcher.cpp" line="50"/>
+        <location filename="../src/launcher.cpp" line="56"/>
         <source>Launcher</source>
         <translation>Paleidyklė</translation>
     </message>
@@ -12,37 +12,31 @@
 <context>
     <name>LauncherGridDelegate</name>
     <message>
-        <location filename="../qml/LauncherGridDelegate.qml" line="85"/>
         <source>Open</source>
-        <translation>Atverti</translation>
+        <translation type="vanished">Atverti</translation>
     </message>
     <message>
-        <location filename="../qml/LauncherGridDelegate.qml" line="91"/>
         <source>Send to dock</source>
-        <translation>Siųsti į doką</translation>
+        <translation type="vanished">Siųsti į doką</translation>
     </message>
     <message>
-        <location filename="../qml/LauncherGridDelegate.qml" line="97"/>
         <source>Remove from dock</source>
-        <translation>Šalinti iš doko</translation>
+        <translation type="vanished">Šalinti iš doko</translation>
     </message>
     <message>
-        <location filename="../qml/LauncherGridDelegate.qml" line="102"/>
         <source>Uninstall</source>
-        <translation>Šalinti programą</translation>
+        <translation type="vanished">Šalinti programą</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../qml/main.qml" line="171"/>
         <source>Search</source>
-        <translation>Paieška</translation>
+        <translation type="vanished">Paieška</translation>
     </message>
     <message>
-        <location filename="../qml/main.qml" line="257"/>
         <source>Not found</source>
-        <translation>Nerasta</translation>
+        <translation type="vanished">Nerasta</translation>
     </message>
 </context>
 </TS>
